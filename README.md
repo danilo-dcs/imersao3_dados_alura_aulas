@@ -7,3 +7,5 @@ imersão de dados 03 promovida pela Alura.
 o pandas, o scikit, seaborn e outras bibliotecas junto ao python
 
 - Para a criação e execução dos notebooks, foi utilizado o ambioente do google colaboratory
+
+- A base de dados (arquivos csv) utilizados para as aulas foram importados diretamente do repositório fornecido pela Alura
